@@ -1,9 +1,9 @@
 # Memory & Oblivion
-Memory & Oblivion is a virtual reality audiovisual experience created by Christopher Ha as his undergraduate capstone in Fashion Communication (BDes.) at Toronto Metropolitan University. The project explores the concept of digital impermanence and the Japanese philosophy of mono no aware — the idea that beauty is transient and fleeting.
+Memory & Oblivion is a virtual reality audiovisual experience created by Christopher Ha as his undergraduate capstone in Fashion Communication (BDes.) at Toronto Metropolitan University. The project explores the concept of digital impermanence and the Japanese philosophy of *mono no aware* — the idea that beauty is transient and fleeting.
 
-Ha's purpose was to challenge the perception that digital media is permanent, by creating a visual and aural representation of the decay of digital memories. Through the use of interactive spatial contexts and immersive sound design, Memory & Oblivion invites viewers to reflect on the impermanence of our digital existence and the nostalgia that arises from it.
+Ha challenges the permanence of digital media by creating a visual and aural representation of the decay of digital memories. Through the use of interactive spatial contexts and immersive sound design, Memory & Oblivion invites viewers to reflect on the impermanence of our digital existence and the nostalgia that arises from it.
 
-Utilizing a range of techniques from game development to architectural design and sound production, Ha has created a multi-sensory experience that explores the interplay between memory, architecture, and collective identity. Memory & Oblivion offers viewers a liminal space for reflection and exploration, ultimately asking them to question the transience of digital media and our place within it.
+Utilizing a range of techniques from game development to architectural design and sound production, Ha creates a multi-sensory experience that explores the interplay between memory, architecture, and the collective memory. Memory & Oblivion offers viewers a liminal space for reflection and exploration, ultimately asking them to question the transience of digital media and our place within it.
 
 # Installation
 
