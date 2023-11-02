@@ -1,5 +1,5 @@
 # Memory & Oblivion
-Memory & Oblivion is a virtual reality audiovisual experience created by Christopher Ha as his undergraduate capstone in Fashion Communication (BDes.) at Toronto Metropolitan University. The project explores the concept of digital impermanence and the Japanese philosophy of *mono no aware* — the idea that beauty is transient and fleeting.
+Memory & Oblivion is a virtual reality audiovisual experience created by Christopher Ha as his Bachelor of Design (BDes.) undergraduate capstone at Toronto Metropolitan University. The project explores the concept of digital impermanence and the Japanese philosophy of *mono no aware* — the idea that beauty is transient and fleeting.
 
 Ha challenges the permanence of digital media by creating a visual and aural representation of the decay of digital memories. Through the use of interactive spatial contexts and immersive sound design, Memory & Oblivion invites viewers to reflect on the impermanence of our digital existence and the nostalgia that arises from it.
 
