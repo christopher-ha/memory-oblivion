@@ -5,6 +5,10 @@ Ha challenges the permanence of digital media by creating a visual and aural rep
 
 Utilizing a range of techniques from game development to architectural design and sound production, Ha creates a multi-sensory experience that explores the interplay between memory and architecture in virtual spaces. Memory & Oblivion offers viewers a liminal space for reflection and exploration, ultimately asking them to question the transience of digital media and our place within it.
 
+**Technologies: Unity / C# / OpenXR**
+
+![Memory & Oblivion](https://www.bhris.digital/projects/memory-oblivion/memory-oblivion-1.jpg)
+
 # Download
 [Memory_Oblivion_Build.zip](https://drive.google.com/file/d/1Xbzq5CXsB5aHITZY10EJpb-ZJRfIVmYJ/view?usp=sharing)
 
